@@ -1,4 +1,4 @@
-rules:
+payload:
 ################################     PT直连规则       ###########################
 - DOMAIN-SUFFIX,wigornot.com,DIRECT
 - DOMAIN-SUFFIX,aling.de,DIRECT
