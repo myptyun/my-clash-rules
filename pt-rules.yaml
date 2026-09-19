@@ -1,531 +1,452 @@
 payload:
-################################     PT直连规则       ###########################
-- DOMAIN-SUFFIX,wigornot.com,DIRECT
-- DOMAIN-SUFFIX,aling.de,DIRECT
-- DOMAIN-SUFFIX,www.hdr-x.com,DIRECT
-- DOMAIN-SUFFIX,beload.org,DIRECT
-- DOMAIN-SUFFIX,theparadiese.hopto.org,DIRECT
-- DOMAIN-SUFFIX,carp-hunter.hu,DIRECT
-- DOMAIN-SUFFIX,h-o-d.org,DIRECT
-- DOMAIN-SUFFIX,bit-hdtv.com,DIRECT
-- DOMAIN-SUFFIX,0cili.my,DIRECT
-- DOMAIN-SUFFIX,1337x.to,DIRECT
-- DOMAIN-SUFFIX,13city.org,DIRECT
-- DOMAIN-SUFFIX,18p2p.com,DIRECT
-- DOMAIN-SUFFIX,1ptba.com,DIRECT
-- DOMAIN-SUFFIX,3wmg.com,DIRECT
-- DOMAIN-SUFFIX,4k-nf.top,DIRECT
-- DOMAIN-SUFFIX,52pt.site,DIRECT
-- DOMAIN-SUFFIX,720pier.ru,DIRECT
-- DOMAIN-SUFFIX,91pinse.com,DIRECT
-- DOMAIN-SUFFIX,abn.lol,DIRECT
-- DOMAIN-SUFFIX,abtorrents.me,DIRECT
-- DOMAIN-SUFFIX,aftershock-tracker.net,DIRECT
-- DOMAIN-SUFFIX,agsvpt.com,DIRECT
-- DOMAIN-SUFFIX,aidoru-online.me,DIRECT
-- DOMAIN-SUFFIX,aither.cc,DIRECT
-- DOMAIN-SUFFIX,allmusic.com,DIRECT
-- DOMAIN-SUFFIX,alpharatio.cc,DIRECT
-- DOMAIN-SUFFIX,anidex.info,DIRECT
-- DOMAIN-SUFFIX,animebytes.tv,DIRECT
-- DOMAIN-SUFFIX,animetorrents.me,DIRECT
-- DOMAIN-SUFFIX,anthelion.me,DIRECT
-- DOMAIN-SUFFIX,ap.ptindexer.top,DIRECT
-- DOMAIN-SUFFIX,asiandvdclub.org,DIRECT
-- DOMAIN-SUFFIX,asmrpt.org,DIRECT
-- DOMAIN-SUFFIX,audiences.me,DIRECT
-- DOMAIN-SUFFIX,audionews.org,DIRECT
-- DOMAIN-SUFFIX,azusa.wiki,DIRECT
-- DOMAIN-SUFFIX,baconbits.org,DIRECT
-- DOMAIN-SUFFIX,beatport.com,DIRECT
-- DOMAIN-SUFFIX,beitai.pt,DIRECT
-- DOMAIN-SUFFIX,best-core.info,DIRECT
-- DOMAIN-SUFFIX,beyond-hd.me,DIRECT
-- DOMAIN-SUFFIX,bibliotik.me,DIRECT
-- DOMAIN-SUFFIX,bigcore.eu,DIRECT
-- DOMAIN-SUFFIX,bigfangroup.org,DIRECT
-- DOMAIN-SUFFIX,bilibili.download,DIRECT
-- DOMAIN-SUFFIX,bitbr.cc,DIRECT
-- DOMAIN-SUFFIX,bitpalace.cc,DIRECT
-- DOMAIN-SUFFIX,bitporn.eu,DIRECT
-- DOMAIN-SUFFIX,bitru.org,DIRECT
-- DOMAIN-SUFFIX,bitsexy.org,DIRECT
-- DOMAIN-SUFFIX,bitspyder.net,DIRECT
-- DOMAIN-SUFFIX,blutopia.cc,DIRECT
-- DOMAIN-SUFFIX,brasiltracker.org,DIRECT
-- DOMAIN-SUFFIX,brokenstones.is,DIRECT
-- DOMAIN-SUFFIX,bt.mdan.org,DIRECT
-- DOMAIN-SUFFIX,btarg.com.ar,DIRECT
-- DOMAIN-SUFFIX,bwtorrents.tv,DIRECT
-- DOMAIN-SUFFIX,cangbao.ge,DIRECT
-- DOMAIN-SUFFIX,carpt.net,DIRECT
-- DOMAIN-SUFFIX,cc.mypt.cc,DIRECT
-- DOMAIN-SUFFIX,cgpeers.to,DIRECT
-- DOMAIN-SUFFIX,checkcoverage.apple.com,DIRECT
-- DOMAIN-SUFFIX,cheggit.me,DIRECT
-- DOMAIN-SUFFIX,cherrykiss.org,DIRECT
-- DOMAIN-SUFFIX,cinemageddon.net,DIRECT
-- DOMAIN-SUFFIX,cinematik.net,DIRECT
-- DOMAIN-SUFFIX,cinemaz.to,DIRECT
-- DOMAIN-SUFFIX,clearjav.com,DIRECT
-- DOMAIN-SUFFIX,club.hares.top,DIRECT
-- DOMAIN-SUFFIX,clwind.com.cn,DIRECT
-- DOMAIN-SUFFIX,concertos.live,DIRECT
-- DOMAIN-SUFFIX,crabpt.vip,DIRECT
-- DOMAIN-SUFFIX,cspt.top,DIRECT
-- DOMAIN-SUFFIX,cyanbug.net,DIRECT
-- DOMAIN-SUFFIX,d2jv2mrui5k15y.cloudfront.net,DIRECT
-- DOMAIN-SUFFIX,dajiao.cyou,DIRECT
-- DOMAIN-SUFFIX,danishbytes.club,DIRECT
-- DOMAIN-SUFFIX,darkland.top,DIRECT
-- DOMAIN-SUFFIX,datascene.xyz,DIRECT
-- DOMAIN-SUFFIX,desigaane.rocks,DIRECT
-- DOMAIN-SUFFIX,desitorrents.tv,DIRECT
-- DOMAIN-SUFFIX,devtracker.me,DIRECT
-- DOMAIN-SUFFIX,dicmusic.com,DIRECT
-- DOMAIN-SUFFIX,discfan.net,DIRECT
-- DOMAIN-SUFFIX,discogs.com,DIRECT
-- DOMAIN-SUFFIX,docspedia.world,DIRECT
-- DOMAIN-SUFFIX,dragonhd.xyz,DIRECT
-- DOMAIN-SUFFIX,dreamingtree.org,DIRECT
-- DOMAIN-SUFFIX,dubhe.site,DIRECT
-- DOMAIN-SUFFIX,duckboobee.org,DIRECT
-- DOMAIN-SUFFIX,dvdbeaver.com,DIRECT
-- DOMAIN-SUFFIX,eiga.moi,DIRECT
-- DOMAIN-SUFFIX,empornium.sx,DIRECT
-- DOMAIN-SUFFIX,en.metal-tracker.com,DIRECT
-- DOMAIN-SUFFIX,enthralled.me,DIRECT
-- DOMAIN-SUFFIX,estone.cc,DIRECT
-- DOMAIN-SUFFIX,et8.org,DIRECT
-- DOMAIN-SUFFIX,exoticaz.to,DIRECT
-- DOMAIN-SUFFIX,ext.to,DIRECT
-- DOMAIN-SUFFIX,extratorrent.st,DIRECT
-- DOMAIN-SUFFIX,extremlymtorrents.ws,DIRECT
-- DOMAIN-SUFFIX,fappaizuri.me,DIRECT
-- DOMAIN-SUFFIX,fearnopeer.com,DIRECT
-- DOMAIN-SUFFIX,femdomcult.org,DIRECT
-- DOMAIN-SUFFIX,filelist.io,DIRECT
-- DOMAIN-SUFFIX,film-paleis.me,DIRECT
-- DOMAIN-SUFFIX,flopload.cc,DIRECT
-- DOMAIN-SUFFIX,forumophilia.com,DIRECT
-- DOMAIN-SUFFIX,fou-du-cinema.net,DIRECT
-- DOMAIN-SUFFIX,freetrial.store,DIRECT
-- DOMAIN-SUFFIX,fsm.name,DIRECT
-- DOMAIN-SUFFIX,gainbound.net,DIRECT
-- DOMAIN-SUFFIX,gay-palace.club,DIRECT
-- DOMAIN-SUFFIX,gay-torrents.net,DIRECT
-- DOMAIN-SUFFIX,gay-torrents.org,DIRECT
-- DOMAIN-SUFFIX,gaytor.rent,DIRECT
-- DOMAIN-SUFFIX,gazellegames.net,DIRECT
-- DOMAIN-SUFFIX,gitlab.com,DIRECT
-- DOMAIN-SUFFIX,gnudb.org,DIRECT
-- DOMAIN-SUFFIX,good73.net,DIRECT
-- DOMAIN-SUFFIX,greatposterwall.com,DIRECT
-- DOMAIN-SUFFIX,haidan.video,DIRECT
-- DOMAIN-SUFFIX,happyfappy.org,DIRECT
-- DOMAIN-SUFFIX,hawke.uno,DIRECT
-- DOMAIN-SUFFIX,hd-cztorrent.cz,DIRECT
-- DOMAIN-SUFFIX,hd-olimpo.club,DIRECT
-- DOMAIN-SUFFIX,hd-only.org,DIRECT
-- DOMAIN-SUFFIX,hd-space.org,DIRECT
-- DOMAIN-SUFFIX,hd-torrents.org,DIRECT
-- DOMAIN-SUFFIX,hd-united.vn,DIRECT
-- DOMAIN-SUFFIX,hd.ai,DIRECT
-- DOMAIN-SUFFIX,hdatmos.club,DIRECT
-- DOMAIN-SUFFIX,hdbao.cc,DIRECT
-- DOMAIN-SUFFIX,hdchina.org,DIRECT
-- DOMAIN-SUFFIX,hdcity.city,DIRECT
-- DOMAIN-SUFFIX,hddolby.com,DIRECT
-- DOMAIN-SUFFIX,hdf.world,DIRECT
-- DOMAIN-SUFFIX,hdfans.org,DIRECT
-- DOMAIN-SUFFIX,hdfun.me,DIRECT
-- DOMAIN-SUFFIX,hdhome.org,DIRECT
-- DOMAIN-SUFFIX,hdkyl.in,DIRECT
-- DOMAIN-SUFFIX,hdme.eu,DIRECT
-- DOMAIN-SUFFIX,hdpt.xyz,DIRECT
-- DOMAIN-SUFFIX,hdroute.org,DIRECT
-- DOMAIN-SUFFIX,hdsky.me,DIRECT
-- DOMAIN-SUFFIX,hdtime.org,DIRECT
-- DOMAIN-SUFFIX,hdtlafenice.eu,DIRECT
-- DOMAIN-SUFFIX,hdts.ru,DIRECT
-- DOMAIN-SUFFIX,hdtshare.com,DIRECT
-- DOMAIN-SUFFIX,hdvideo.one,DIRECT
-- DOMAIN-SUFFIX,hdzone.me,DIRECT
-- DOMAIN-SUFFIX,hhanclub.top,DIRECT
-- DOMAIN-SUFFIX,hires6.com,DIRECT
-- DOMAIN-SUFFIX,hitpt.com,DIRECT
-- DOMAIN-SUFFIX,homiehelpdesk.net,DIRECT
-- DOMAIN-SUFFIX,hqmusic.info,DIRECT
-- DOMAIN-SUFFIX,hspt.club,DIRECT
-- DOMAIN-SUFFIX,htpt.cc,DIRECT
-- DOMAIN-SUFFIX,hxpt.org,DIRECT
-- DOMAIN-SUFFIX,ianon.app,DIRECT
-- DOMAIN-SUFFIX,icc2022.com,DIRECT
-- DOMAIN-SUFFIX,idontexist.me,DIRECT
-- DOMAIN-SUFFIX,idope.se,DIRECT
-- DOMAIN-SUFFIX,ihdbits.me,DIRECT
-- DOMAIN-SUFFIX,immortalseed.me,DIRECT
-- DOMAIN-SUFFIX,iptorrents.com,DIRECT
-- DOMAIN-SUFFIX,isohunt.ch,DIRECT
-- DOMAIN-SUFFIX,itorrent.ws,DIRECT
-- DOMAIN-SUFFIX,itorrents.one,DIRECT
-- DOMAIN-SUFFIX,joyhd.net,DIRECT
-- DOMAIN-SUFFIX,jpopsuki.eu,DIRECT
-- DOMAIN-SUFFIX,jptv.club,DIRECT
-- DOMAIN-SUFFIX,justanothermusic.site,DIRECT
-- DOMAIN-SUFFIX,kamept.com,DIRECT
-- DOMAIN-SUFFIX,karagarga.in,DIRECT
-- DOMAIN-SUFFIX,kickass.torrentbay.st,DIRECT
-- DOMAIN-SUFFIX,kickass.ws,DIRECT
-- DOMAIN-SUFFIX,kimoji.club,DIRECT
-- DOMAIN-SUFFIX,knaben.org,DIRECT
-- DOMAIN-SUFFIX,kp.m-team.cc,DIRECT
-- DOMAIN-SUFFIX,krazyzone.net,DIRECT
-- DOMAIN-SUFFIX,kufei.org,DIRECT
-- DOMAIN-SUFFIX,last.fm,DIRECT
-- DOMAIN-SUFFIX,learnbits.me,DIRECT
-- DOMAIN-SUFFIX,leaves.red,DIRECT
-- DOMAIN-SUFFIX,lemonhd.club,DIRECT
-- DOMAIN-SUFFIX,lemonhd.net,DIRECT
-- DOMAIN-SUFFIX,leporno.de,DIRECT
-- DOMAIN-SUFFIX,lesbians4u.org,DIRECT
-- DOMAIN-SUFFIX,libble.me,DIRECT
-- DOMAIN-SUFFIX,lillesky.org,DIRECT
-- DOMAIN-SUFFIX,longpt.org,DIRECT
-- DOMAIN-SUFFIX,losslessclub.com,DIRECT
-- DOMAIN-SUFFIX,lp-bits.com,DIRECT
-- DOMAIN-SUFFIX,lst.gg,DIRECT
-- DOMAIN-SUFFIX,lyrics.wikia.com,DIRECT
-- DOMAIN-SUFFIX,lztr.me,DIRECT
-- DOMAIN-SUFFIX,mckk88.top,DIRECT
-- DOMAIN-SUFFIX,mediamaatjes.org,DIRECT
-- DOMAIN-SUFFIX,metal-archives.com,DIRECT
-- DOMAIN-SUFFIX,milkie.cc,DIRECT
-- DOMAIN-SUFFIX,morethantv.me,DIRECT
-- DOMAIN-SUFFIX,mousebits.com,DIRECT
-- DOMAIN-SUFFIX,moviesite.info.hu,DIRECT
-- DOMAIN-SUFFIX,moviesz.nl,DIRECT
-- DOMAIN-SUFFIX,movietosee.top,DIRECT
-- DOMAIN-SUFFIX,mteam.fr,DIRECT
-- DOMAIN-SUFFIX,musebootlegs.com,DIRECT
-- DOMAIN-SUFFIX,musicbrainz.org,DIRECT
-- DOMAIN-SUFFIX,myanonamouse.net,DIRECT
-- DOMAIN-SUFFIX,myporn.club,DIRECT
-- DOMAIN-SUFFIX,myys.club,DIRECT
-- DOMAIN-SUFFIX,nanyangpt.com,DIRECT
-- DOMAIN-SUFFIX,nb.lovexue77.online:9999,DIRECT
-- DOMAIN-SUFFIX,ncore.pro,DIRECT
-- DOMAIN-SUFFIX,nebulance.io,DIRECT
-- DOMAIN-SUFFIX,netcosmo.it,DIRECT
-- DOMAIN-SUFFIX,new.qingwa.pro,DIRECT
-- DOMAIN-SUFFIX,newage-music.ru,DIRECT
-- DOMAIN-SUFFIX,nicept.net,DIRECT
-- DOMAIN-SUFFIX,njtupt.top,DIRECT
-- DOMAIN-SUFFIX,nortorrent6.com,DIRECT
-- DOMAIN-SUFFIX,nzbplanet.net,DIRECT
-- DOMAIN-SUFFIX,nzbs.in,DIRECT
-- DOMAIN-SUFFIX,okpt.net,DIRECT
-- DOMAIN-SUFFIX,oldtoons.world,DIRECT
-- DOMAIN-SUFFIX,omgwtfnzbs.me,DIRECT
-- DOMAIN-SUFFIX,omgwtfnzbs.org,DIRECT
-- DOMAIN-SUFFIX,onejav.com,DIRECT
-- DOMAIN-SUFFIX,open.cd,DIRECT
-- DOMAIN-SUFFIX,opensharing.org,DIRECT
-- DOMAIN-SUFFIX,oppaiti.me,DIRECT
-- DOMAIN-SUFFIX,oshen.win,DIRECT
-- DOMAIN-SUFFIX,our.kelu.one,DIRECT
-- DOMAIN-SUFFIX,ourbits.club,DIRECT
-- DOMAIN-SUFFIX,oxtorrent7.com,DIRECT
-- DOMAIN-SUFFIX,pandapt.net,DIRECT
-- DOMAIN-SUFFIX,passthepopcorn.me,DIRECT
-- DOMAIN-SUFFIX,pb.wtf,DIRECT
-- DOMAIN-SUFFIX,piggo.me,DIRECT
-- DOMAIN-SUFFIX,piratethenet.org,DIRECT
-- DOMAIN-SUFFIX,pixelhd.me,DIRECT
-- DOMAIN-SUFFIX,playletpt.xyz,DIRECT
-- DOMAIN-SUFFIX,pornbay.org,DIRECT
-- DOMAIN-SUFFIX,pornbits.net,DIRECT
-- DOMAIN-SUFFIX,pornolab.net,DIRECT
-- DOMAIN-SUFFIX,pornotorrent.eu,DIRECT
-- DOMAIN-SUFFIX,pornrips.to,DIRECT
-- DOMAIN-SUFFIX,pornxlab.com,DIRECT
-- DOMAIN-SUFFIX,portugas.org,DIRECT
-- DOMAIN-SUFFIX,privatehd.to,DIRECT
-- DOMAIN-SUFFIX,pruc.org,DIRECT
-- DOMAIN-SUFFIX,pt.0ff.cc,DIRECT
-- DOMAIN-SUFFIX,pt.2xfree.org,DIRECT
-- DOMAIN-SUFFIX,pt.525968.xyz,DIRECT
-- DOMAIN-SUFFIX,pt.asf.ink,DIRECT
-- DOMAIN-SUFFIX,pt.btschool.club,DIRECT
-- DOMAIN-SUFFIX,pt.cdfile.org,DIRECT
-- DOMAIN-SUFFIX,pt.eastgame.org,DIRECT
-- DOMAIN-SUFFIX,pt.gtk.pw,DIRECT
-- DOMAIN-SUFFIX,pt.hd4fans.org,DIRECT
-- DOMAIN-SUFFIX,pt.hdbd.us,DIRECT
-- DOMAIN-SUFFIX,pt.hdclone.top,DIRECT
-- DOMAIN-SUFFIX,pt.hdpost.top,DIRECT
-- DOMAIN-SUFFIX,pt.hdupt.com,DIRECT
-- DOMAIN-SUFFIX,pt.itzmx.com,DIRECT
-- DOMAIN-SUFFIX,pt.keepfrds.com,DIRECT
-- DOMAIN-SUFFIX,pt.lajidui.top,DIRECT
-- DOMAIN-SUFFIX,pt.luckpt.de,DIRECT
-- DOMAIN-SUFFIX,pt.msg.vg,DIRECT
-- DOMAIN-SUFFIX,pt.novahd.top,DIRECT
-- DOMAIN-SUFFIX,pt.sjtu.edu.cn,DIRECT
-- DOMAIN-SUFFIX,pt.soulvoice.club,DIRECT
-- DOMAIN-SUFFIX,pt.ying.us.kg,DIRECT
-- DOMAIN-SUFFIX,pt.zhuoyue.de,DIRECT
-- DOMAIN-SUFFIX,ptcafe.club,DIRECT
-- DOMAIN-SUFFIX,ptchdbits.co,DIRECT
-- DOMAIN-SUFFIX,ptchina.org,DIRECT
-- DOMAIN-SUFFIX,ptfans.cc,DIRECT
-- DOMAIN-SUFFIX,ptfiles.net,DIRECT
-- DOMAIN-SUFFIX,pthome.net,DIRECT
-- DOMAIN-SUFFIX,ptlao.top,DIRECT
-- DOMAIN-SUFFIX,ptlgs.org,DIRECT
-- DOMAIN-SUFFIX,ptlsp.com,DIRECT
-- DOMAIN-SUFFIX,ptnic.net,DIRECT
-- DOMAIN-SUFFIX,ptsbao.club,DIRECT
-- DOMAIN-SUFFIX,pttime.org,DIRECT
-- DOMAIN-SUFFIX,ptvicomo.net,DIRECT
-- DOMAIN-SUFFIX,ptzone.xyz,DIRECT
-- DOMAIN-SUFFIX,public.ecustpt.eu.org,DIRECT
-- DOMAIN-SUFFIX,pussytorrents.org,DIRECT
-- DOMAIN-SUFFIX,pwtorrents.net,DIRECT
-- DOMAIN-SUFFIX,qbite.top,DIRECT
-- DOMAIN-SUFFIX,racing4everyone.eu,DIRECT
-- DOMAIN-SUFFIX,raingfh.top,DIRECT
-- DOMAIN-SUFFIX,rapidzona.tv,DIRECT
-- DOMAIN-SUFFIX,rareshare2.me,DIRECT
-- DOMAIN-SUFFIX,rastastugan.org,DIRECT
-- DOMAIN-SUFFIX,rateyourmusic.com,DIRECT
-- DOMAIN-SUFFIX,reelflix.xyz,DIRECT
-- DOMAIN-SUFFIX,reverbnation.com,DIRECT
-- DOMAIN-SUFFIX,rintor.net,DIRECT
-- DOMAIN-SUFFIX,rousi.zip,DIRECT
-- DOMAIN-SUFFIX,rptscene.xyz,DIRECT
-- DOMAIN-SUFFIX,rutracker.org,DIRECT
-- DOMAIN-SUFFIX,rutracker.ru,DIRECT
-- DOMAIN-SUFFIX,satclubbing.club,DIRECT
-- DOMAIN-SUFFIX,sb-innovation.de,DIRECT
-- DOMAIN-SUFFIX,scenehd.org,DIRECT
-- DOMAIN-SUFFIX,scenelinks.me,DIRECT
-- DOMAIN-SUFFIX,scenetime.com,DIRECT
-- DOMAIN-SUFFIX,sdbits.org,DIRECT
-- DOMAIN-SUFFIX,secret-cinema.pw,DIRECT
-- DOMAIN-SUFFIX,sewerpt.com,DIRECT
-- DOMAIN-SUFFIX,sexy-pics.us,DIRECT
-- DOMAIN-SUFFIX,shadowthein.net,DIRECT
-- DOMAIN-SUFFIX,share.ilolicon.com,DIRECT
-- DOMAIN-SUFFIX,sharewood.tv,DIRECT
-- DOMAIN-SUFFIX,si-qi.xyz,DIRECT
-- DOMAIN-SUFFIX,skipthecommericals.xyz,DIRECT
-- DOMAIN-SUFFIX,skyey2.com,DIRECT
-- DOMAIN-SUFFIX,slitopen.me,DIRECT
-- DOMAIN-SUFFIX,slosoul.net,DIRECT
-- DOMAIN-SUFFIX,sosulki.com,DIRECT
-- DOMAIN-SUFFIX,spidertk.top,DIRECT
-- DOMAIN-SUFFIX,sportscult.org,DIRECT
-- DOMAIN-SUFFIX,springsunday.net,DIRECT
-- DOMAIN-SUFFIX,squaldc.top,DIRECT
-- DOMAIN-SUFFIX,ssdforum.org,DIRECT
-- DOMAIN-SUFFIX,ssg1.torrentssg8.com,DIRECT
-- DOMAIN-SUFFIX,ssl.bootytape.com,DIRECT
-- DOMAIN-SUFFIX,sugoimusic.me,DIRECT
-- DOMAIN-SUFFIX,sukebei.nyaa.si,DIRECT
-- DOMAIN-SUFFIX,sunnypt.top,DIRECT
-- DOMAIN-SUFFIX,superbits.org,DIRECT
-- DOMAIN-SUFFIX,svfi.xyz,DIRECT
-- DOMAIN-SUFFIX,t.ceskeforum.com,DIRECT
-- DOMAIN-SUFFIX,t.tosky.club,DIRECT
-- DOMAIN-SUFFIX,taranis.me,DIRECT
-- DOMAIN-SUFFIX,telly.wtf,DIRECT
-- DOMAIN-SUFFIX,the-devils-lounge.xyz,DIRECT
-- DOMAIN-SUFFIX,theaudioscene.net,DIRECT
-- DOMAIN-SUFFIX,theempire.click,DIRECT
-- DOMAIN-SUFFIX,thegeeks.click,DIRECT
-- DOMAIN-SUFFIX,thepiratebay.org,DIRECT
-- DOMAIN-SUFFIX,theplace.click,DIRECT
-- DOMAIN-SUFFIX,therarbg.to,DIRECT
-- DOMAIN-SUFFIX,thesceneplace.com,DIRECT
-- DOMAIN-SUFFIX,theshinning.me,DIRECT
-- DOMAIN-SUFFIX,theshow.click,DIRECT
-- DOMAIN-SUFFIX,thunder-storm.xyz,DIRECT
-- DOMAIN-SUFFIX,tjupt.org,DIRECT
-- DOMAIN-SUFFIX,tlz.digital,DIRECT
-- DOMAIN-SUFFIX,tlzdigital.com,DIRECT
-- DOMAIN-SUFFIX,tmpt.top,DIRECT
-- DOMAIN-SUFFIX,tokyotosho.info,DIRECT
-- DOMAIN-SUFFIX,toptbdev.net,DIRECT
-- DOMAIN-SUFFIX,torlock.com,DIRECT
-- DOMAIN-SUFFIX,tormac.org,DIRECT
-- DOMAIN-SUFFIX,tornado.si,DIRECT
-- DOMAIN-SUFFIX,torrent-pirat.com,DIRECT
-- DOMAIN-SUFFIX,torrent.desi,DIRECT
-- DOMAIN-SUFFIX,torrent.genesis-movement.org,DIRECT
-- DOMAIN-SUFFIX,torrent.janemusic.org,DIRECT
-- DOMAIN-SUFFIX,torrentcore.xyz,DIRECT
-- DOMAIN-SUFFIX,torrentgalaxy.one,DIRECT
-- DOMAIN-SUFFIX,torrentleech.org,DIRECT
-- DOMAIN-SUFFIX,torrentqq382.com,DIRECT
-- DOMAIN-SUFFIX,torrents.torrentech.org,DIRECT
-- DOMAIN-SUFFIX,torrentseeds.org,DIRECT
-- DOMAIN-SUFFIX,torrentsir176.com,DIRECT
-- DOMAIN-SUFFIX,totheglory.im,DIRECT
-- DOMAIN-SUFFIX,tr.anidub.com,DIRECT
-- DOMAIN-SUFFIX,tracker2.postman.i2p,DIRECT
-- DOMAIN-SUFFIX,traht.org,DIRECT
-- DOMAIN-SUFFIX,trancetraffic.com,DIRECT
-- DOMAIN-SUFFIX,truegear.net,DIRECT
-- DOMAIN-SUFFIX,turkseed.com,DIRECT
-- DOMAIN-SUFFIX,tv-vault.me,DIRECT
-- DOMAIN-SUFFIX,twilightzoom.org,DIRECT
-- DOMAIN-SUFFIX,u2.dmhy.org,DIRECT
-- DOMAIN-SUFFIX,u3c3.com,DIRECT
-- DOMAIN-SUFFIX,ubits.club,DIRECT
-- DOMAIN-SUFFIX,uhd-heaven.xyz,DIRECT
-- DOMAIN-SUFFIX,uhdbits.org,DIRECT
-- DOMAIN-SUFFIX,uindex.org,DIRECT
-- DOMAIN-SUFFIX,ultrahd.net,DIRECT
-- DOMAIN-SUFFIX,usenet-4all.pw,DIRECT
-- DOMAIN-SUFFIX,v2.nzbs.in,DIRECT
-- DOMAIN-SUFFIX,videoteka.org,DIRECT
-- DOMAIN-SUFFIX,web4sync.com,DIRECT
-- DOMAIN-SUFFIX,wintersakura.net,DIRECT
-- DOMAIN-SUFFIX,wukongwendao.top,DIRECT
-- DOMAIN-SUFFIX,www.gamegamept.com,DIRECT
-- DOMAIN-SUFFIX,www.tokyopt.xyz,DIRECT
-- DOMAIN-SUFFIX,www.yhpp.cc,DIRECT
-- DOMAIN-SUFFIX,x-files.me,DIRECT
-- DOMAIN-SUFFIX,x-ite.me,DIRECT
-- DOMAIN-SUFFIX,xblade-den.net,DIRECT
-- DOMAIN-SUFFIX,xbtmusic.org,DIRECT
-- DOMAIN-SUFFIX,xingtan.one,DIRECT
-- DOMAIN-SUFFIX,xingyunge.top,DIRECT
-- DOMAIN-SUFFIX,xinstore.org,DIRECT
-- DOMAIN-SUFFIX,xnxx.health,DIRECT
-- DOMAIN-SUFFIX,xtremebytes.net,DIRECT
-- DOMAIN-SUFFIX,xxxadulttorrent.org,DIRECT
-- DOMAIN-SUFFIX,xxxclub.to,DIRECT
-- DOMAIN-SUFFIX,xxxtor.com,DIRECT
-- DOMAIN-SUFFIX,yemapt.org,DIRECT
-- DOMAIN-SUFFIX,ygg.re,DIRECT
-- DOMAIN-SUFFIX,yoinked.org,DIRECT
-- DOMAIN-SUFFIX,yourbittorrent.com,DIRECT
-- DOMAIN-SUFFIX,zeus.hamsters.space,DIRECT
-- DOMAIN-SUFFIX,zhuque.in,DIRECT
-- DOMAIN-SUFFIX,zktorrent5.com,DIRECT
-- DOMAIN-SUFFIX,zmpt.cc,DIRECT
-- DOMAIN-SUFFIX,zombtracker.the-zomb.com,DIRECT
-- DOMAIN-SUFFIX,zooskoolvideos.com,DIRECT
-- DOMAIN-SUFFIX,zootracker.vip,DIRECT
-- DOMAIN-SUFFIX,zrpt.cc,DIRECT
-- DOMAIN-SUFFIX,immortal-s.me,DIRECT
-- DOMAIN-SUFFIX,www.tangpt.top,DIRECT
-- DOMAIN-SUFFIX,690421.xyz,DIRECT
-- DOMAIN-SUFFIX,690422.xyz,DIRECT
-- DOMAIN-SUFFIX,690423.xyz,DIRECT
-- DOMAIN-SUFFIX,pterclub.net,DIRECT
-- DOMAIN-SUFFIX,zh.imagetwistcams.com,DIRECT
-- DOMAIN-SUFFIX,nordichd.org,DIRECT
-- DOMAIN-SUFFIX,pt.hdclone.org,DIRECT
-- DOMAIN-SUFFIX,ptlover.cc,DIRECT
-- DOMAIN-SUFFIX,sextorrent.eu,DIRECT
-- DOMAIN,sdwan.hsdzdh.com,DIRECT
-#########################   PT代理规则   #####################################################################
-- DOMAIN,byr.pt,🚀 节点选择
-- DOMAIN,ghcr.io,🚀 节点选择
-- DOMAIN,la-cale.space,🚀 节点选择
-- DOMAIN-SUFFIX,monikadesign.uk,🚀 节点选择
-- DOMAIN-SUFFIX,bluebird-hd.org,🚀 节点选择
-- DOMAIN-SUFFIX,bluraytracker.cz,🚀 节点选择
-- DOMAIN-SUFFIX,hudbt.hust.edu.cn,🚀 节点选择
-- DOMAIN-SUFFIX,pt.okfun.org,🚀 节点选择
-- DOMAIN-SUFFIX,hdbits.org,🚀 节点选择
-- DOMAIN-SUFFIX,avistaz.to,🚀 节点选择
-- DOMAIN-SUFFIX,star-space.net,🚀 节点选择
-- DOMAIN-SUFFIX,sehuatang.org,🚀 节点选择
-- DOMAIN-SUFFIX,ipify.org,🚀 节点选择
-- DOMAIN-SUFFIX,fast.com,🚀 节点选择
-- DOMAIN-SUFFIX,test-ipv6.com,🚀 节点选择
-- DOMAIN-SUFFIX,ipv6-test.com,🚀 节点选择
-- DOMAIN-SUFFIX,www.homeporntorrents.club,🚀 节点选择
-- DOMAIN-SUFFIX,qobuz.com,🚀 节点选择
-- DOMAIN-SUFFIX,kufirc.com,🚀 节点选择
-##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
-##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
-##- DOMAIN-KEYWORD,google,Proxy #匹配域名关键字(交由Proxy代理服务器组)
-##- DOMAIN,google.com,Proxy #匹配域名(交由Proxy代理服务器组)
-##- DOMAIN-SUFFIX,ad.com,REJECT #匹配域名后缀(拒绝)
-##- IP-CIDR,127.0.0.0/8,DIRECT #匹配数据目标IP(直连)
-##- SRC-IP-CIDR,192.168.1.201/32,DIRECT #匹配数据发起IP(直连)
-##- DST-PORT,80,DIRECT #匹配数据目标端口(直连)
-##- SRC-PORT,7777,DIRECT #匹配数据源端口(直连)
-##- GEOSITE,category-public-tracker,DIRECT #匹配GEOSITE数据库规则(直连)
-##- DOMAIN-REGEX,^abc.*com,PROXY #正则匹配域名
-##- RULE-SET,providername,PROXY #匹配规则集
-
-##- IP-CIDR6,2620:0:2d0:200::7/32,PROXY
-##- IP-SUFFIX,8.8.8.8/24,PROXY
-##- IP-ASN,13335,DIRECT
-
-##- SRC-GEOIP,cn,DIRECT
-##- SRC-IP-ASN,9808,DIRECT
-##- SRC-IP-SUFFIX,192.168.1.201/8,DIRECT
-
-##- IN-PORT,7890,PROXY
-##- IN-TYPE,SOCKS/HTTP,PROXY
-##- IN-USER,mihomo,PROXY
-##- IN-NAME,ss,PROXY
-
-##- PROCESS-NAME-REGEX,curl$,PROXY
-##- PROCESS-NAME-REGEX,(?i)Telegram,PROXY
-##- PROCESS-NAME-REGEX,.*telegram.*,PROXY
-
-##- NETWORK,udp,DIRECT
-##- DSCP,4,DIRECT
-
-##- AND,((DOMAIN,baidu.com),(NETWORK,UDP)),DIRECT
-##- OR,((NETWORK,UDP),(DOMAIN,baidu.com)),REJECT
-##- NOT,((DOMAIN,baidu.com)),PROXY
-##- SUB-RULE,(NETWORK,tcp),sub-rule
-
-##排序在上的规则优先生效,如添加（去除规则前的#号）：
-##IP段：192.168.1.2-192.168.1.200 直连
-##- SRC-IP-CIDR,192.168.1.2/31,DIRECT
-##- SRC-IP-CIDR,192.168.1.4/30,DIRECT
-##- SRC-IP-CIDR,192.168.1.8/29,DIRECT
-##- SRC-IP-CIDR,192.168.1.16/28,DIRECT
-##- SRC-IP-CIDR,192.168.1.32/27,DIRECT
-##- SRC-IP-CIDR,192.168.1.64/26,DIRECT
-##- SRC-IP-CIDR,192.168.1.128/26,DIRECT
-##- SRC-IP-CIDR,192.168.1.192/29,DIRECT
-##- SRC-IP-CIDR,192.168.1.200/32,DIRECT
-
-##IP段：192.168.1.202-192.168.1.255 直连
-##- SRC-IP-CIDR,192.168.1.202/31,DIRECT
-##- SRC-IP-CIDR,192.168.1.204/30,DIRECT
-##- SRC-IP-CIDR,192.168.1.208/28,DIRECT
-##- SRC-IP-CIDR,192.168.1.224/27,DIRECT
-
-##此时IP为192.168.1.1和192.168.1.201的客户端流量走代理（策略），其余客户端不走代理
-##因为Fake-IP模式下，IP地址为192.168.1.1的路由器自身流量可走代理（策略），所以需要排除
-
-##仅设置路由器自身直连：
-##- SRC-IP-CIDR,192.168.1.1/32,DIRECT
-##- SRC-IP-CIDR,198.18.0.1/32,DIRECT
-
-##DDNS
-##- DOMAIN-KEYWORD,synology,DIRECT
-##- DOMAIN-KEYWORD,quickconnect,DIRECT
-##- DOMAIN-SUFFIX,checkip.dyndns.org,DIRECT
-##- DOMAIN-SUFFIX,checkipv6.dyndns.org,DIRECT
-##- DOMAIN-SUFFIX,checkip.synology.com,DIRECT
-##- DOMAIN-SUFFIX,ifconfig.co,DIRECT
-##- DOMAIN-SUFFIX,api.myip.com,DIRECT
-##- DOMAIN-SUFFIX,ip-api.com,DIRECT
-##- DOMAIN-SUFFIX,ipapi.co,DIRECT
-##- DOMAIN-SUFFIX,ip6.seeip.org,DIRECT
-##- DOMAIN-SUFFIX,members.3322.org,DIRECT
-
-##在线IP段转CIDR地址：http://ip2cidr.com
+  - DOMAIN-SUFFIX,wigornot.com,DIRECT
+  - DOMAIN-SUFFIX,aling.de,DIRECT
+  - DOMAIN-SUFFIX,www.hdr-x.com,DIRECT
+  - DOMAIN-SUFFIX,beload.org,DIRECT
+  - DOMAIN-SUFFIX,theparadiese.hopto.org,DIRECT
+  - DOMAIN-SUFFIX,carp-hunter.hu,DIRECT
+  - DOMAIN-SUFFIX,h-o-d.org,DIRECT
+  - DOMAIN-SUFFIX,bit-hdtv.com,DIRECT
+  - DOMAIN-SUFFIX,0cili.my,DIRECT
+  - DOMAIN-SUFFIX,1337x.to,DIRECT
+  - DOMAIN-SUFFIX,13city.org,DIRECT
+  - DOMAIN-SUFFIX,18p2p.com,DIRECT
+  - DOMAIN-SUFFIX,1ptba.com,DIRECT
+  - DOMAIN-SUFFIX,3wmg.com,DIRECT
+  - DOMAIN-SUFFIX,4k-nf.top,DIRECT
+  - DOMAIN-SUFFIX,52pt.site,DIRECT
+  - DOMAIN-SUFFIX,720pier.ru,DIRECT
+  - DOMAIN-SUFFIX,91pinse.com,DIRECT
+  - DOMAIN-SUFFIX,abn.lol,DIRECT
+  - DOMAIN-SUFFIX,abtorrents.me,DIRECT
+  - DOMAIN-SUFFIX,aftershock-tracker.net,DIRECT
+  - DOMAIN-SUFFIX,agsvpt.com,DIRECT
+  - DOMAIN-SUFFIX,aidoru-online.me,DIRECT
+  - DOMAIN-SUFFIX,aither.cc,DIRECT
+  - DOMAIN-SUFFIX,allmusic.com,DIRECT
+  - DOMAIN-SUFFIX,alpharatio.cc,DIRECT
+  - DOMAIN-SUFFIX,anidex.info,DIRECT
+  - DOMAIN-SUFFIX,animebytes.tv,DIRECT
+  - DOMAIN-SUFFIX,animetorrents.me,DIRECT
+  - DOMAIN-SUFFIX,anthelion.me,DIRECT
+  - DOMAIN-SUFFIX,ap.ptindexer.top,DIRECT
+  - DOMAIN-SUFFIX,asiandvdclub.org,DIRECT
+  - DOMAIN-SUFFIX,asmrpt.org,DIRECT
+  - DOMAIN-SUFFIX,audiences.me,DIRECT
+  - DOMAIN-SUFFIX,audionews.org,DIRECT
+  - DOMAIN-SUFFIX,azusa.wiki,DIRECT
+  - DOMAIN-SUFFIX,baconbits.org,DIRECT
+  - DOMAIN-SUFFIX,beatport.com,DIRECT
+  - DOMAIN-SUFFIX,beitai.pt,DIRECT
+  - DOMAIN-SUFFIX,best-core.info,DIRECT
+  - DOMAIN-SUFFIX,beyond-hd.me,DIRECT
+  - DOMAIN-SUFFIX,bibliotik.me,DIRECT
+  - DOMAIN-SUFFIX,bigcore.eu,DIRECT
+  - DOMAIN-SUFFIX,bigfangroup.org,DIRECT
+  - DOMAIN-SUFFIX,bilibili.download,DIRECT
+  - DOMAIN-SUFFIX,bitbr.cc,DIRECT
+  - DOMAIN-SUFFIX,bitpalace.cc,DIRECT
+  - DOMAIN-SUFFIX,bitporn.eu,DIRECT
+  - DOMAIN-SUFFIX,bitru.org,DIRECT
+  - DOMAIN-SUFFIX,bitsexy.org,DIRECT
+  - DOMAIN-SUFFIX,bitspyder.net,DIRECT
+  - DOMAIN-SUFFIX,blutopia.cc,DIRECT
+  - DOMAIN-SUFFIX,brasiltracker.org,DIRECT
+  - DOMAIN-SUFFIX,brokenstones.is,DIRECT
+  - DOMAIN-SUFFIX,bt.mdan.org,DIRECT
+  - DOMAIN-SUFFIX,btarg.com.ar,DIRECT
+  - DOMAIN-SUFFIX,bwtorrents.tv,DIRECT
+  - DOMAIN-SUFFIX,cangbao.ge,DIRECT
+  - DOMAIN-SUFFIX,carpt.net,DIRECT
+  - DOMAIN-SUFFIX,cc.mypt.cc,DIRECT
+  - DOMAIN-SUFFIX,cgpeers.to,DIRECT
+  - DOMAIN-SUFFIX,checkcoverage.apple.com,DIRECT
+  - DOMAIN-SUFFIX,cheggit.me,DIRECT
+  - DOMAIN-SUFFIX,cherrykiss.org,DIRECT
+  - DOMAIN-SUFFIX,cinemageddon.net,DIRECT
+  - DOMAIN-SUFFIX,cinematik.net,DIRECT
+  - DOMAIN-SUFFIX,cinemaz.to,DIRECT
+  - DOMAIN-SUFFIX,clearjav.com,DIRECT
+  - DOMAIN-SUFFIX,club.hares.top,DIRECT
+  - DOMAIN-SUFFIX,clwind.com.cn,DIRECT
+  - DOMAIN-SUFFIX,concertos.live,DIRECT
+  - DOMAIN-SUFFIX,crabpt.vip,DIRECT
+  - DOMAIN-SUFFIX,cspt.top,DIRECT
+  - DOMAIN-SUFFIX,cyanbug.net,DIRECT
+  - DOMAIN-SUFFIX,d2jv2mrui5k15y.cloudfront.net,DIRECT
+  - DOMAIN-SUFFIX,dajiao.cyou,DIRECT
+  - DOMAIN-SUFFIX,danishbytes.club,DIRECT
+  - DOMAIN-SUFFIX,darkland.top,DIRECT
+  - DOMAIN-SUFFIX,datascene.xyz,DIRECT
+  - DOMAIN-SUFFIX,desigaane.rocks,DIRECT
+  - DOMAIN-SUFFIX,desitorrents.tv,DIRECT
+  - DOMAIN-SUFFIX,devtracker.me,DIRECT
+  - DOMAIN-SUFFIX,dicmusic.com,DIRECT
+  - DOMAIN-SUFFIX,discfan.net,DIRECT
+  - DOMAIN-SUFFIX,discogs.com,DIRECT
+  - DOMAIN-SUFFIX,docspedia.world,DIRECT
+  - DOMAIN-SUFFIX,dragonhd.xyz,DIRECT
+  - DOMAIN-SUFFIX,dreamingtree.org,DIRECT
+  - DOMAIN-SUFFIX,dubhe.site,DIRECT
+  - DOMAIN-SUFFIX,duckboobee.org,DIRECT
+  - DOMAIN-SUFFIX,dvdbeaver.com,DIRECT
+  - DOMAIN-SUFFIX,eiga.moi,DIRECT
+  - DOMAIN-SUFFIX,empornium.sx,DIRECT
+  - DOMAIN-SUFFIX,en.metal-tracker.com,DIRECT
+  - DOMAIN-SUFFIX,enthralled.me,DIRECT
+  - DOMAIN-SUFFIX,estone.cc,DIRECT
+  - DOMAIN-SUFFIX,et8.org,DIRECT
+  - DOMAIN-SUFFIX,exoticaz.to,DIRECT
+  - DOMAIN-SUFFIX,ext.to,DIRECT
+  - DOMAIN-SUFFIX,extratorrent.st,DIRECT
+  - DOMAIN-SUFFIX,extremlymtorrents.ws,DIRECT
+  - DOMAIN-SUFFIX,fappaizuri.me,DIRECT
+  - DOMAIN-SUFFIX,fearnopeer.com,DIRECT
+  - DOMAIN-SUFFIX,femdomcult.org,DIRECT
+  - DOMAIN-SUFFIX,filelist.io,DIRECT
+  - DOMAIN-SUFFIX,film-paleis.me,DIRECT
+  - DOMAIN-SUFFIX,flopload.cc,DIRECT
+  - DOMAIN-SUFFIX,forumophilia.com,DIRECT
+  - DOMAIN-SUFFIX,fou-du-cinema.net,DIRECT
+  - DOMAIN-SUFFIX,freetrial.store,DIRECT
+  - DOMAIN-SUFFIX,fsm.name,DIRECT
+  - DOMAIN-SUFFIX,gainbound.net,DIRECT
+  - DOMAIN-SUFFIX,gay-palace.club,DIRECT
+  - DOMAIN-SUFFIX,gay-torrents.net,DIRECT
+  - DOMAIN-SUFFIX,gay-torrents.org,DIRECT
+  - DOMAIN-SUFFIX,gaytor.rent,DIRECT
+  - DOMAIN-SUFFIX,gazellegames.net,DIRECT
+  - DOMAIN-SUFFIX,gitlab.com,DIRECT
+  - DOMAIN-SUFFIX,gnudb.org,DIRECT
+  - DOMAIN-SUFFIX,good73.net,DIRECT
+  - DOMAIN-SUFFIX,greatposterwall.com,DIRECT
+  - DOMAIN-SUFFIX,haidan.video,DIRECT
+  - DOMAIN-SUFFIX,happyfappy.org,DIRECT
+  - DOMAIN-SUFFIX,hawke.uno,DIRECT
+  - DOMAIN-SUFFIX,hd-cztorrent.cz,DIRECT
+  - DOMAIN-SUFFIX,hd-olimpo.club,DIRECT
+  - DOMAIN-SUFFIX,hd-only.org,DIRECT
+  - DOMAIN-SUFFIX,hd-space.org,DIRECT
+  - DOMAIN-SUFFIX,hd-torrents.org,DIRECT
+  - DOMAIN-SUFFIX,hd-united.vn,DIRECT
+  - DOMAIN-SUFFIX,hd.ai,DIRECT
+  - DOMAIN-SUFFIX,hdatmos.club,DIRECT
+  - DOMAIN-SUFFIX,hdbao.cc,DIRECT
+  - DOMAIN-SUFFIX,hdchina.org,DIRECT
+  - DOMAIN-SUFFIX,hdcity.city,DIRECT
+  - DOMAIN-SUFFIX,hddolby.com,DIRECT
+  - DOMAIN-SUFFIX,hdf.world,DIRECT
+  - DOMAIN-SUFFIX,hdfans.org,DIRECT
+  - DOMAIN-SUFFIX,hdfun.me,DIRECT
+  - DOMAIN-SUFFIX,hdhome.org,DIRECT
+  - DOMAIN-SUFFIX,hdkyl.in,DIRECT
+  - DOMAIN-SUFFIX,hdme.eu,DIRECT
+  - DOMAIN-SUFFIX,hdpt.xyz,DIRECT
+  - DOMAIN-SUFFIX,hdroute.org,DIRECT
+  - DOMAIN-SUFFIX,hdsky.me,DIRECT
+  - DOMAIN-SUFFIX,hdtime.org,DIRECT
+  - DOMAIN-SUFFIX,hdtlafenice.eu,DIRECT
+  - DOMAIN-SUFFIX,hdts.ru,DIRECT
+  - DOMAIN-SUFFIX,hdtshare.com,DIRECT
+  - DOMAIN-SUFFIX,hdvideo.one,DIRECT
+  - DOMAIN-SUFFIX,hdzone.me,DIRECT
+  - DOMAIN-SUFFIX,hhanclub.top,DIRECT
+  - DOMAIN-SUFFIX,hires6.com,DIRECT
+  - DOMAIN-SUFFIX,hitpt.com,DIRECT
+  - DOMAIN-SUFFIX,homiehelpdesk.net,DIRECT
+  - DOMAIN-SUFFIX,hqmusic.info,DIRECT
+  - DOMAIN-SUFFIX,hspt.club,DIRECT
+  - DOMAIN-SUFFIX,htpt.cc,DIRECT
+  - DOMAIN-SUFFIX,hxpt.org,DIRECT
+  - DOMAIN-SUFFIX,ianon.app,DIRECT
+  - DOMAIN-SUFFIX,icc2022.com,DIRECT
+  - DOMAIN-SUFFIX,idontexist.me,DIRECT
+  - DOMAIN-SUFFIX,idope.se,DIRECT
+  - DOMAIN-SUFFIX,ihdbits.me,DIRECT
+  - DOMAIN-SUFFIX,immortalseed.me,DIRECT
+  - DOMAIN-SUFFIX,iptorrents.com,DIRECT
+  - DOMAIN-SUFFIX,isohunt.ch,DIRECT
+  - DOMAIN-SUFFIX,itorrent.ws,DIRECT
+  - DOMAIN-SUFFIX,itorrents.one,DIRECT
+  - DOMAIN-SUFFIX,joyhd.net,DIRECT
+  - DOMAIN-SUFFIX,jpopsuki.eu,DIRECT
+  - DOMAIN-SUFFIX,jptv.club,DIRECT
+  - DOMAIN-SUFFIX,justanothermusic.site,DIRECT
+  - DOMAIN-SUFFIX,kamept.com,DIRECT
+  - DOMAIN-SUFFIX,karagarga.in,DIRECT
+  - DOMAIN-SUFFIX,kickass.torrentbay.st,DIRECT
+  - DOMAIN-SUFFIX,kickass.ws,DIRECT
+  - DOMAIN-SUFFIX,kimoji.club,DIRECT
+  - DOMAIN-SUFFIX,knaben.org,DIRECT
+  - DOMAIN-SUFFIX,kp.m-team.cc,DIRECT
+  - DOMAIN-SUFFIX,krazyzone.net,DIRECT
+  - DOMAIN-SUFFIX,kufei.org,DIRECT
+  - DOMAIN-SUFFIX,last.fm,DIRECT
+  - DOMAIN-SUFFIX,learnbits.me,DIRECT
+  - DOMAIN-SUFFIX,leaves.red,DIRECT
+  - DOMAIN-SUFFIX,lemonhd.club,DIRECT
+  - DOMAIN-SUFFIX,lemonhd.net,DIRECT
+  - DOMAIN-SUFFIX,leporno.de,DIRECT
+  - DOMAIN-SUFFIX,lesbians4u.org,DIRECT
+  - DOMAIN-SUFFIX,libble.me,DIRECT
+  - DOMAIN-SUFFIX,lillesky.org,DIRECT
+  - DOMAIN-SUFFIX,longpt.org,DIRECT
+  - DOMAIN-SUFFIX,losslessclub.com,DIRECT
+  - DOMAIN-SUFFIX,lp-bits.com,DIRECT
+  - DOMAIN-SUFFIX,lst.gg,DIRECT
+  - DOMAIN-SUFFIX,lyrics.wikia.com,DIRECT
+  - DOMAIN-SUFFIX,lztr.me,DIRECT
+  - DOMAIN-SUFFIX,mckk88.top,DIRECT
+  - DOMAIN-SUFFIX,mediamaatjes.org,DIRECT
+  - DOMAIN-SUFFIX,metal-archives.com,DIRECT
+  - DOMAIN-SUFFIX,milkie.cc,DIRECT
+  - DOMAIN-SUFFIX,morethantv.me,DIRECT
+  - DOMAIN-SUFFIX,mousebits.com,DIRECT
+  - DOMAIN-SUFFIX,moviesite.info.hu,DIRECT
+  - DOMAIN-SUFFIX,moviesz.nl,DIRECT
+  - DOMAIN-SUFFIX,movietosee.top,DIRECT
+  - DOMAIN-SUFFIX,mteam.fr,DIRECT
+  - DOMAIN-SUFFIX,musebootlegs.com,DIRECT
+  - DOMAIN-SUFFIX,musicbrainz.org,DIRECT
+  - DOMAIN-SUFFIX,myanonamouse.net,DIRECT
+  - DOMAIN-SUFFIX,myporn.club,DIRECT
+  - DOMAIN-SUFFIX,myys.club,DIRECT
+  - DOMAIN-SUFFIX,nanyangpt.com,DIRECT
+  - DOMAIN-SUFFIX,nb.lovexue77.online:9999,DIRECT
+  - DOMAIN-SUFFIX,ncore.pro,DIRECT
+  - DOMAIN-SUFFIX,nebulance.io,DIRECT
+  - DOMAIN-SUFFIX,netcosmo.it,DIRECT
+  - DOMAIN-SUFFIX,new.qingwa.pro,DIRECT
+  - DOMAIN-SUFFIX,newage-music.ru,DIRECT
+  - DOMAIN-SUFFIX,nicept.net,DIRECT
+  - DOMAIN-SUFFIX,njtupt.top,DIRECT
+  - DOMAIN-SUFFIX,nortorrent6.com,DIRECT
+  - DOMAIN-SUFFIX,nzbplanet.net,DIRECT
+  - DOMAIN-SUFFIX,nzbs.in,DIRECT
+  - DOMAIN-SUFFIX,okpt.net,DIRECT
+  - DOMAIN-SUFFIX,oldtoons.world,DIRECT
+  - DOMAIN-SUFFIX,omgwtfnzbs.me,DIRECT
+  - DOMAIN-SUFFIX,omgwtfnzbs.org,DIRECT
+  - DOMAIN-SUFFIX,onejav.com,DIRECT
+  - DOMAIN-SUFFIX,open.cd,DIRECT
+  - DOMAIN-SUFFIX,opensharing.org,DIRECT
+  - DOMAIN-SUFFIX,oppaiti.me,DIRECT
+  - DOMAIN-SUFFIX,oshen.win,DIRECT
+  - DOMAIN-SUFFIX,our.kelu.one,DIRECT
+  - DOMAIN-SUFFIX,ourbits.club,DIRECT
+  - DOMAIN-SUFFIX,oxtorrent7.com,DIRECT
+  - DOMAIN-SUFFIX,pandapt.net,DIRECT
+  - DOMAIN-SUFFIX,passthepopcorn.me,DIRECT
+  - DOMAIN-SUFFIX,pb.wtf,DIRECT
+  - DOMAIN-SUFFIX,piggo.me,DIRECT
+  - DOMAIN-SUFFIX,piratethenet.org,DIRECT
+  - DOMAIN-SUFFIX,pixelhd.me,DIRECT
+  - DOMAIN-SUFFIX,playletpt.xyz,DIRECT
+  - DOMAIN-SUFFIX,pornbay.org,DIRECT
+  - DOMAIN-SUFFIX,pornbits.net,DIRECT
+  - DOMAIN-SUFFIX,pornolab.net,DIRECT
+  - DOMAIN-SUFFIX,pornotorrent.eu,DIRECT
+  - DOMAIN-SUFFIX,pornrips.to,DIRECT
+  - DOMAIN-SUFFIX,pornxlab.com,DIRECT
+  - DOMAIN-SUFFIX,portugas.org,DIRECT
+  - DOMAIN-SUFFIX,privatehd.to,DIRECT
+  - DOMAIN-SUFFIX,pruc.org,DIRECT
+  - DOMAIN-SUFFIX,pt.0ff.cc,DIRECT
+  - DOMAIN-SUFFIX,pt.2xfree.org,DIRECT
+  - DOMAIN-SUFFIX,pt.525968.xyz,DIRECT
+  - DOMAIN-SUFFIX,pt.asf.ink,DIRECT
+  - DOMAIN-SUFFIX,pt.btschool.club,DIRECT
+  - DOMAIN-SUFFIX,pt.cdfile.org,DIRECT
+  - DOMAIN-SUFFIX,pt.eastgame.org,DIRECT
+  - DOMAIN-SUFFIX,pt.gtk.pw,DIRECT
+  - DOMAIN-SUFFIX,pt.hd4fans.org,DIRECT
+  - DOMAIN-SUFFIX,pt.hdbd.us,DIRECT
+  - DOMAIN-SUFFIX,pt.hdclone.top,DIRECT
+  - DOMAIN-SUFFIX,pt.hdpost.top,DIRECT
+  - DOMAIN-SUFFIX,pt.hdupt.com,DIRECT
+  - DOMAIN-SUFFIX,pt.itzmx.com,DIRECT
+  - DOMAIN-SUFFIX,pt.keepfrds.com,DIRECT
+  - DOMAIN-SUFFIX,pt.lajidui.top,DIRECT
+  - DOMAIN-SUFFIX,pt.luckpt.de,DIRECT
+  - DOMAIN-SUFFIX,pt.msg.vg,DIRECT
+  - DOMAIN-SUFFIX,pt.novahd.top,DIRECT
+  - DOMAIN-SUFFIX,pt.sjtu.edu.cn,DIRECT
+  - DOMAIN-SUFFIX,pt.soulvoice.club,DIRECT
+  - DOMAIN-SUFFIX,pt.ying.us.kg,DIRECT
+  - DOMAIN-SUFFIX,pt.zhuoyue.de,DIRECT
+  - DOMAIN-SUFFIX,ptcafe.club,DIRECT
+  - DOMAIN-SUFFIX,ptchdbits.co,DIRECT
+  - DOMAIN-SUFFIX,ptchina.org,DIRECT
+  - DOMAIN-SUFFIX,ptfans.cc,DIRECT
+  - DOMAIN-SUFFIX,ptfiles.net,DIRECT
+  - DOMAIN-SUFFIX,pthome.net,DIRECT
+  - DOMAIN-SUFFIX,ptlao.top,DIRECT
+  - DOMAIN-SUFFIX,ptlgs.org,DIRECT
+  - DOMAIN-SUFFIX,ptlsp.com,DIRECT
+  - DOMAIN-SUFFIX,ptnic.net,DIRECT
+  - DOMAIN-SUFFIX,ptsbao.club,DIRECT
+  - DOMAIN-SUFFIX,pttime.org,DIRECT
+  - DOMAIN-SUFFIX,ptvicomo.net,DIRECT
+  - DOMAIN-SUFFIX,ptzone.xyz,DIRECT
+  - DOMAIN-SUFFIX,public.ecustpt.eu.org,DIRECT
+  - DOMAIN-SUFFIX,pussytorrents.org,DIRECT
+  - DOMAIN-SUFFIX,pwtorrents.net,DIRECT
+  - DOMAIN-SUFFIX,qbite.top,DIRECT
+  - DOMAIN-SUFFIX,racing4everyone.eu,DIRECT
+  - DOMAIN-SUFFIX,raingfh.top,DIRECT
+  - DOMAIN-SUFFIX,rapidzona.tv,DIRECT
+  - DOMAIN-SUFFIX,rareshare2.me,DIRECT
+  - DOMAIN-SUFFIX,rastastugan.org,DIRECT
+  - DOMAIN-SUFFIX,rateyourmusic.com,DIRECT
+  - DOMAIN-SUFFIX,reelflix.xyz,DIRECT
+  - DOMAIN-SUFFIX,reverbnation.com,DIRECT
+  - DOMAIN-SUFFIX,rintor.net,DIRECT
+  - DOMAIN-SUFFIX,rousi.zip,DIRECT
+  - DOMAIN-SUFFIX,rptscene.xyz,DIRECT
+  - DOMAIN-SUFFIX,rutracker.org,DIRECT
+  - DOMAIN-SUFFIX,rutracker.ru,DIRECT
+  - DOMAIN-SUFFIX,satclubbing.club,DIRECT
+  - DOMAIN-SUFFIX,sb-innovation.de,DIRECT
+  - DOMAIN-SUFFIX,scenehd.org,DIRECT
+  - DOMAIN-SUFFIX,scenelinks.me,DIRECT
+  - DOMAIN-SUFFIX,scenetime.com,DIRECT
+  - DOMAIN-SUFFIX,sdbits.org,DIRECT
+  - DOMAIN-SUFFIX,secret-cinema.pw,DIRECT
+  - DOMAIN-SUFFIX,sewerpt.com,DIRECT
+  - DOMAIN-SUFFIX,sexy-pics.us,DIRECT
+  - DOMAIN-SUFFIX,shadowthein.net,DIRECT
+  - DOMAIN-SUFFIX,share.ilolicon.com,DIRECT
+  - DOMAIN-SUFFIX,sharewood.tv,DIRECT
+  - DOMAIN-SUFFIX,si-qi.xyz,DIRECT
+  - DOMAIN-SUFFIX,skipthecommericals.xyz,DIRECT
+  - DOMAIN-SUFFIX,skyey2.com,DIRECT
+  - DOMAIN-SUFFIX,slitopen.me,DIRECT
+  - DOMAIN-SUFFIX,slosoul.net,DIRECT
+  - DOMAIN-SUFFIX,sosulki.com,DIRECT
+  - DOMAIN-SUFFIX,spidertk.top,DIRECT
+  - DOMAIN-SUFFIX,sportscult.org,DIRECT
+  - DOMAIN-SUFFIX,springsunday.net,DIRECT
+  - DOMAIN-SUFFIX,squaldc.top,DIRECT
+  - DOMAIN-SUFFIX,ssdforum.org,DIRECT
+  - DOMAIN-SUFFIX,ssg1.torrentssg8.com,DIRECT
+  - DOMAIN-SUFFIX,ssl.bootytape.com,DIRECT
+  - DOMAIN-SUFFIX,sugoimusic.me,DIRECT
+  - DOMAIN-SUFFIX,sukebei.nyaa.si,DIRECT
+  - DOMAIN-SUFFIX,sunnypt.top,DIRECT
+  - DOMAIN-SUFFIX,superbits.org,DIRECT
+  - DOMAIN-SUFFIX,svfi.xyz,DIRECT
+  - DOMAIN-SUFFIX,t.ceskeforum.com,DIRECT
+  - DOMAIN-SUFFIX,t.tosky.club,DIRECT
+  - DOMAIN-SUFFIX,taranis.me,DIRECT
+  - DOMAIN-SUFFIX,telly.wtf,DIRECT
+  - DOMAIN-SUFFIX,the-devils-lounge.xyz,DIRECT
+  - DOMAIN-SUFFIX,theaudioscene.net,DIRECT
+  - DOMAIN-SUFFIX,theempire.click,DIRECT
+  - DOMAIN-SUFFIX,thegeeks.click,DIRECT
+  - DOMAIN-SUFFIX,thepiratebay.org,DIRECT
+  - DOMAIN-SUFFIX,theplace.click,DIRECT
+  - DOMAIN-SUFFIX,therarbg.to,DIRECT
+  - DOMAIN-SUFFIX,thesceneplace.com,DIRECT
+  - DOMAIN-SUFFIX,theshinning.me,DIRECT
+  - DOMAIN-SUFFIX,theshow.click,DIRECT
+  - DOMAIN-SUFFIX,thunder-storm.xyz,DIRECT
+  - DOMAIN-SUFFIX,tjupt.org,DIRECT
+  - DOMAIN-SUFFIX,tlz.digital,DIRECT
+  - DOMAIN-SUFFIX,tlzdigital.com,DIRECT
+  - DOMAIN-SUFFIX,tmpt.top,DIRECT
+  - DOMAIN-SUFFIX,tokyotosho.info,DIRECT
+  - DOMAIN-SUFFIX,toptbdev.net,DIRECT
+  - DOMAIN-SUFFIX,torlock.com,DIRECT
+  - DOMAIN-SUFFIX,tormac.org,DIRECT
+  - DOMAIN-SUFFIX,tornado.si,DIRECT
+  - DOMAIN-SUFFIX,torrent-pirat.com,DIRECT
+  - DOMAIN-SUFFIX,torrent.desi,DIRECT
+  - DOMAIN-SUFFIX,torrent.genesis-movement.org,DIRECT
+  - DOMAIN-SUFFIX,torrent.janemusic.org,DIRECT
+  - DOMAIN-SUFFIX,torrentcore.xyz,DIRECT
+  - DOMAIN-SUFFIX,torrentgalaxy.one,DIRECT
+  - DOMAIN-SUFFIX,torrentleech.org,DIRECT
+  - DOMAIN-SUFFIX,torrentqq382.com,DIRECT
+  - DOMAIN-SUFFIX,torrents.torrentech.org,DIRECT
+  - DOMAIN-SUFFIX,torrentseeds.org,DIRECT
+  - DOMAIN-SUFFIX,torrentsir176.com,DIRECT
+  - DOMAIN-SUFFIX,totheglory.im,DIRECT
+  - DOMAIN-SUFFIX,tr.anidub.com,DIRECT
+  - DOMAIN-SUFFIX,tracker2.postman.i2p,DIRECT
+  - DOMAIN-SUFFIX,traht.org,DIRECT
+  - DOMAIN-SUFFIX,trancetraffic.com,DIRECT
+  - DOMAIN-SUFFIX,truegear.net,DIRECT
+  - DOMAIN-SUFFIX,turkseed.com,DIRECT
+  - DOMAIN-SUFFIX,tv-vault.me,DIRECT
+  - DOMAIN-SUFFIX,twilightzoom.org,DIRECT
+  - DOMAIN-SUFFIX,u2.dmhy.org,DIRECT
+  - DOMAIN-SUFFIX,u3c3.com,DIRECT
+  - DOMAIN-SUFFIX,ubits.club,DIRECT
+  - DOMAIN-SUFFIX,uhd-heaven.xyz,DIRECT
+  - DOMAIN-SUFFIX,uhdbits.org,DIRECT
+  - DOMAIN-SUFFIX,uindex.org,DIRECT
+  - DOMAIN-SUFFIX,ultrahd.net,DIRECT
+  - DOMAIN-SUFFIX,usenet-4all.pw,DIRECT
+  - DOMAIN-SUFFIX,v2.nzbs.in,DIRECT
+  - DOMAIN-SUFFIX,videoteka.org,DIRECT
+  - DOMAIN-SUFFIX,web4sync.com,DIRECT
+  - DOMAIN-SUFFIX,wintersakura.net,DIRECT
+  - DOMAIN-SUFFIX,wukongwendao.top,DIRECT
+  - DOMAIN-SUFFIX,www.gamegamept.com,DIRECT
+  - DOMAIN-SUFFIX,www.tokyopt.xyz,DIRECT
+  - DOMAIN-SUFFIX,www.yhpp.cc,DIRECT
+  - DOMAIN-SUFFIX,x-files.me,DIRECT
+  - DOMAIN-SUFFIX,x-ite.me,DIRECT
+  - DOMAIN-SUFFIX,xblade-den.net,DIRECT
+  - DOMAIN-SUFFIX,xbtmusic.org,DIRECT
+  - DOMAIN-SUFFIX,xingtan.one,DIRECT
+  - DOMAIN-SUFFIX,xingyunge.top,DIRECT
+  - DOMAIN-SUFFIX,xinstore.org,DIRECT
+  - DOMAIN-SUFFIX,xnxx.health,DIRECT
+  - DOMAIN-SUFFIX,xtremebytes.net,DIRECT
+  - DOMAIN-SUFFIX,xxxadulttorrent.org,DIRECT
+  - DOMAIN-SUFFIX,xxxclub.to,DIRECT
+  - DOMAIN-SUFFIX,xxxtor.com,DIRECT
+  - DOMAIN-SUFFIX,yemapt.org,DIRECT
+  - DOMAIN-SUFFIX,ygg.re,DIRECT
+  - DOMAIN-SUFFIX,yoinked.org,DIRECT
+  - DOMAIN-SUFFIX,yourbittorrent.com,DIRECT
+  - DOMAIN-SUFFIX,zeus.hamsters.space,DIRECT
+  - DOMAIN-SUFFIX,zhuque.in,DIRECT
+  - DOMAIN-SUFFIX,zktorrent5.com,DIRECT
+  - DOMAIN-SUFFIX,zmpt.cc,DIRECT
+  - DOMAIN-SUFFIX,zombtracker.the-zomb.com,DIRECT
+  - DOMAIN-SUFFIX,zooskoolvideos.com,DIRECT
+  - DOMAIN-SUFFIX,zootracker.vip,DIRECT
+  - DOMAIN-SUFFIX,zrpt.cc,DIRECT
+  - DOMAIN-SUFFIX,immortal-s.me,DIRECT
+  - DOMAIN-SUFFIX,www.tangpt.top,DIRECT
+  - DOMAIN-SUFFIX,690421.xyz,DIRECT
+  - DOMAIN-SUFFIX,690422.xyz,DIRECT
+  - DOMAIN-SUFFIX,690423.xyz,DIRECT
+  - DOMAIN-SUFFIX,pterclub.net,DIRECT
+  - DOMAIN-SUFFIX,zh.imagetwistcams.com,DIRECT
+  - DOMAIN-SUFFIX,nordichd.org,DIRECT
+  - DOMAIN-SUFFIX,pt.hdclone.org,DIRECT
+  - DOMAIN-SUFFIX,ptlover.cc,DIRECT
+  - DOMAIN-SUFFIX,sextorrent.eu,DIRECT
+  - DOMAIN,sdwan.hsdzdh.com,DIRECT
+  - DOMAIN,byr.pt,🚀 节点选择
+  - DOMAIN,ghcr.io,🚀 节点选择
+  - DOMAIN,la-cale.space,🚀 节点选择
+  - DOMAIN-SUFFIX,monikadesign.uk,🚀 节点选择
+  - DOMAIN-SUFFIX,bluebird-hd.org,🚀 节点选择
+  - DOMAIN-SUFFIX,bluraytracker.cz,🚀 节点选择
+  - DOMAIN-SUFFIX,hudbt.hust.edu.cn,🚀 节点选择
+  - DOMAIN-SUFFIX,pt.okfun.org,🚀 节点选择
+  - DOMAIN-SUFFIX,hdbits.org,🚀 节点选择
+  - DOMAIN-SUFFIX,avistaz.to,🚀 节点选择
+  - DOMAIN-SUFFIX,star-space.net,🚀 节点选择
+  - DOMAIN-SUFFIX,sehuatang.org,🚀 节点选择
+  - DOMAIN-SUFFIX,ipify.org,🚀 节点选择
+  - DOMAIN-SUFFIX,fast.com,🚀 节点选择
+  - DOMAIN-SUFFIX,test-ipv6.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ipv6-test.com,🚀 节点选择
+  - DOMAIN-SUFFIX,www.homeporntorrents.club,🚀 节点选择
+  - DOMAIN-SUFFIX,qobuz.com,🚀 节点选择
+  - DOMAIN-SUFFIX,kufirc.com,🚀 节点选择
