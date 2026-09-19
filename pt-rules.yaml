@@ -442,7 +442,7 @@ payload:
   - DOMAIN-SUFFIX,hdbits.org,🚀 节点选择
   - DOMAIN-SUFFIX,avistaz.to,🚀 节点选择
   - DOMAIN-SUFFIX,star-space.net,🚀 节点选择
-  - DOMAIN-SUFFIX,sehuatang.org,🚀 节点选择
+  - DOMAIN-SUFFIX,sehuatang.org,DIRECT
   - DOMAIN-SUFFIX,ipify.org,🚀 节点选择
   - DOMAIN-SUFFIX,fast.com,🚀 节点选择
   - DOMAIN-SUFFIX,test-ipv6.com,🚀 节点选择
